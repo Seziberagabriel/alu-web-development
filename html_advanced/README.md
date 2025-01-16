@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # alu-web-development - HTML Advanced
+=======
+Alu-web-development - HTML Advanced
+>>>>>>> refs/remotes/origin/master
 Introduction
 This project focuses on building the HTML structure for a webpage based on a design provided in Figma.
 
@@ -10,4 +14,4 @@ Utilize Figma to access the design details.
 The design file for this project is available on Figma:
 
 Link: Here (Note: You'll need to create a Figma account and "Duplicate to your Drafts" to access all details)
-File to implement Structure
+
